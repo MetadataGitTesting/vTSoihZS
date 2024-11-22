@@ -1,0 +1,57 @@
+name: florencio.barrows
+description: Centralized
+version: 0.0.7.518
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: florenciobarrows
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:14:25'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:14:25'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:14:25.758931Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1115371638'
+  createdAt: '2024-11-22T20:14:25.758931Z'
+  type: plibMaven
+projectDependencies:
+  '198':
+    projectUID: 198
+    projectName: lavera.pagac
+    repositoryPath: gitUri=http://gitserver:3000/dev_B2MSN5Fl_team_232/dev_B2MSN5Fl_project_198.git&subPath=
+    version: lavera.pagac/9.37.742
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:14:23'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
